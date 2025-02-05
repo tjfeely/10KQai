@@ -1,0 +1,5 @@
+streamlit
+sec-api
+langchain-community
+python-dotenv
+openai
