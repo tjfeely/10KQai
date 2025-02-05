@@ -26,7 +26,6 @@ Click Get Answer to retrieve the information.
 Example Questions
 AAPL 10-K: "What are Apple's risk factors?"
 TSLA 10-Q: "What financial metrics does Tesla report for the quarter?"
-Troubleshooting
 
 Missing API Keys: Check your .env file.
 No Filings Found: Verify the stock ticker or report availability.
